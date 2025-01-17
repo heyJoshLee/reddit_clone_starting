@@ -1,0 +1,16 @@
+#site-header {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.site-header-title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.site-header-nav-links {
+  display: flex;
+  gap: 2rem;
+}

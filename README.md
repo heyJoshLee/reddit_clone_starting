@@ -1,6 +1,7 @@
 # Notes!
 
 ## Features
+- A user can view a community.
 - A user can view posts.
 - A user can register.
 - A user can make a post.
