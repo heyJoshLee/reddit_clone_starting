@@ -1,4 +1,4 @@
-# Notes
+# These are the notes!
 
 - A user can view posts.
 - A user can register.
